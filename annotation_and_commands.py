@@ -17,6 +17,7 @@ def print_commands():
     4 - to choose deleting files by its location on computer
     5 - to choose deleting copies of files by its location (in the directory entered by user and all its subfolders)
     6 - to choose printing html-code of a website
+    
     7 - to return to the beginning
     8 - to print annotation
     9 - to print command list
